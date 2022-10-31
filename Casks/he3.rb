@@ -9,6 +9,8 @@ cask "he3" do
       url :url
     end
 
+    auto_updates true
+    
     name "He3"
     desc "A Free, Modern Toolbox Built for Developers."
     homepage "https://he3.app"
