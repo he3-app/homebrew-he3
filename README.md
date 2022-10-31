@@ -3,7 +3,8 @@
 HomeBrew repo for he3
 
 ```
-brew install h8r-dev/repo/he3-client
+brew tap h8r-dev/homebrew-he3
+brew install he3
 ```
 
 See https://brew.sh/ for more details about HomeBrew.
