@@ -17,8 +17,6 @@ cask "he3" do
 
     app "He3.app"
 
-    # uninstall quit: ""
-
     zap trash: [
       "~/Library/Application Support/he3"
     ]
