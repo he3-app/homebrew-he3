@@ -1,4 +1,4 @@
-class He3 < Formula
+class he3 < Formula
     version "0.0.15"
     sha256 arm:   "27e37f60e760491655ac067ee0317b60e38fc1e2208baf396e1da7a74f9c0916",
            intel: "703cf23a9574b9f81b7e1cd834f910625da690ec125d50e281204f13fbb35b09"
