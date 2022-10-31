@@ -1,10 +1,5 @@
-# homebrew-he3
-
-HomeBrew repo for he3
+# Install He3 with homebrew on macOS
 
 ```
-brew tap h8r-dev/homebrew-he3
-brew install --cask he3
+brew install --cask h8r-dev/homebrew-he3/he3
 ```
-
-See https://brew.sh/ for more details about HomeBrew.
