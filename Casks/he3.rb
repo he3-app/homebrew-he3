@@ -1,8 +1,8 @@
 cask "he3" do
   arch arm: "arm64", intel: "x64"
-  version "1.2.4"
-  sha256 arm:   "02e8f3160cb72b454266245de7df471b87e4c9ff98916509b0146eacf29fab1b",
-         intel: "a2a1506015db034fd0f14168ecf62e7591fbedc95f782105541f1ffc07848bf2"
+  version "1.2.5"
+  sha256 arm:   "83a6f5b6a88b72513bdabcf3685924079ddf8c9c9ec2dd05aa269cd3554c3e92",
+         intel: "6953008a1f74f00e99ba5ddd8f3943d8405c45150bd90ad7c36ea3f0a4804e56"
           
   url "https://he3-1309519128.cos.accelerate.myqcloud.com/#{version}/He3_mac_#{arch}_#{version}.dmg"
   
