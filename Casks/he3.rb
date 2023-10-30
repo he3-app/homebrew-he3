@@ -1,8 +1,8 @@
 cask "he3" do
   arch arm: "arm64", intel: "x64"
-  version "1.3.23"
-  sha256 arm:   "f3b279958da0f5a5948c02af5f140b5d84693fb56df356d5783eaf96cffe00f8",
-         intel: "7d597254720f62332b8d3fdebce79d56957d3cd5406dca3d46b159d7974c58a6"
+  version "2.0.0"
+  sha256 arm:   "ab0949344b6e9606e00499d86b15622059bcbdb5d27ca1f13fe93d7069fbc860",
+         intel: "771d3aaa415ff3290db3e46964f24cf54aa2b97564ab1a0af12f6bf0d367c5e5"
           
   url "https://he3-1309519128.cos.accelerate.myqcloud.com/#{version}/He3_mac_#{arch}_#{version}.dmg"
   
@@ -14,7 +14,7 @@ cask "he3" do
 
   name "He3"
   desc "A Free, Modern Toolbox Built for Developers."
-  homepage "https://he3.app"
+  homepage "https://he3app.com"
 
   depends_on macos: ">= :catalina"
 
